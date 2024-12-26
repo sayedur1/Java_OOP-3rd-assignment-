@@ -1,9 +1,9 @@
 package Java_Practise3.Encaptulation;
 
-public class Parent_Class {
+public class encaptulation_Example {
  private String  password ;
-    public void setValue(String name){
-        password=name;
+    public void setValue(String password){
+        this.password=password;
 
     }
     String getValue(){

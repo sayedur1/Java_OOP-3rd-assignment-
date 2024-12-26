@@ -1,6 +1,6 @@
 package Java_Practise3.Inhartance;
 
-public class Parrent_clss {
+public class single_inheritance_Parrent_class {
 
     float a;
     float b;
